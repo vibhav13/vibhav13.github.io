@@ -1,0 +1,35 @@
+# Site settings
+name: Vibhav Srivastava
+email: vibhavsrivastava13@gmail.com
+#canonical_url: https://edwinexemplar.com
+keywords: "Software Engineer, Python, Ruby, Java, Machine Learning, Web Development, Startups, Agile, Programming"
+skills: "Software Engineer in Hamburg, Germany"
+baseurl:
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+# You should replace these with your social networks, of course. :)
+social:
+  - title: linkedin
+    url: www.linkedin.com/in/vibhav13
+  - title: github
+    url: https://github.com/vibhav13
+    
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 2196F3
+  primary-rgb: "33, 150, 243"
+  secondary: 285172
+  secondary-dark: 29455b
+  section-tout: eaf1f1
+
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty
